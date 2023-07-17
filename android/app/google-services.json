@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "861432824511",
+    "project_id": "cloneff-e871e",
+    "storage_bucket": "cloneff-e871e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861432824511:android:af5ccd133eb65e570d7c0a",
+        "android_client_info": {
+          "package_name": "com.mycompany.amazonclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861432824511-0574fhmi2d7bto9nu1g3d85utl6pudfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.amazonclone",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "861432824511-8a8etv31kk8okoi5qm9lg1mtfr88b4ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrrtr1b8PnFsiRVwVHbSitdev6JUtOoCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861432824511-8a8etv31kk8okoi5qm9lg1mtfr88b4ci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861432824511-nn8fq4dbvibcd0didiqmp7a4u1j07kj9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.amazonclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

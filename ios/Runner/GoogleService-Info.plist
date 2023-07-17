@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>861432824511-nn8fq4dbvibcd0didiqmp7a4u1j07kj9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.861432824511-nn8fq4dbvibcd0didiqmp7a4u1j07kj9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>861432824511-0574fhmi2d7bto9nu1g3d85utl6pudfn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBptWkcYjPTYxRDtgq3DsyHVWZ14z5lglM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>861432824511</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.amazonclone</string>
+	<key>PROJECT_ID</key>
+	<string>cloneff-e871e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cloneff-e871e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:861432824511:ios:6933c8511fe3ddcd0d7c0a</string>
+</dict>
+</plist>
